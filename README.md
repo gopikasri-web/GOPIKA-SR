@@ -40,7 +40,6 @@ An AI-based engine monitoring project presented at OneYes PitchFest 2026, where 
 
 📊 Data Science  
 🤖 Machine Learning  
-🐍 Python
 
 ## Connect With Me
 
